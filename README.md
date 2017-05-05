@@ -17,17 +17,15 @@ Test Log Analysis and WEB Display
 
 参考
 ---
-[Python XML解析](https://m.runoob.com/python/python-xml.html)
+[Python中使用ElementTree解析XML示例](http://m.jb51.net/article/67120.htm)
+
+[使用ElementTree遍历xml](https://my.oschina.net/happyBKs/blog/366474)
+
+[Python 使用 ElementTree 处理 XML](http://zqchen90.github.io/2016/04/05/python-element-tree/)
 
 [用 ElementTree 在 Python 中解析 XML](http://pycoders-weekly-chinese.readthedocs.io/en/latest/issue6/processing-xml-in-python-with-element-tree.html)
 
-[解析简单的XML数据](http://python3-cookbook.readthedocs.io/zh_CN/latest/c06/p03_parse_simple_xml_data.html)
-
-[深入解读Python解析XML的几种方式](http://codingpy.com/article/parsing-xml-using-python/)
-
 [Python 标准库之 xml.etree.ElementTree](http://www.cnblogs.com/ifantastic/archive/2013/04/12/3017110.html)
-
-[Python xml解析](https://gist.github.com/ronaldhan/77531c9d2cc3c0ee1b93)
 
 [使用由 Python 编写的 lxml 实现高性能 XML 解析](https://www.ibm.com/developerworks/cn/xml/x-hiperfparse/)
 
